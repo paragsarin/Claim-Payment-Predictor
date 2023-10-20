@@ -1,93 +1,93 @@
 ICD10_codes,Age,Type_of_Work,Total_Claim_Payment
-A123,35,Sedentary,5000
-B456,45,Active,6000
-C789,28,Light Active,5500
-D012,32,Heavy Work,7000
-A123,41,Sedentary,4800
-B456,37,Active,6100
-C789,50,Light Active,5300
-D012,29,Heavy Work,7200
-A123,48,Sedentary,5200
-B456,25,Active,5900
-C789,30,Light Active,5600
-D012,42,Heavy Work,6900
-A123,38,Sedentary,5100
-B456,31,Active,6200
-C789,47,Light Active,5400
-D012,26,Heavy Work,7100
-A123,44,Sedentary,4900
-B456,36,Active,6300
-C789,33,Light Active,5800
-D012,27,Heavy Work,7300
-A123,43,Sedentary,5200
-B456,34,Active,6100
-C789,35,Light Active,5500
-D012,30,Heavy Work,7200
-A123,50,Sedentary,4800
-B456,45,Active,6000
-C789,28,Light Active,5500
-D012,32,Heavy Work,7000
-A123,38,Sedentary,5100
-B456,41,Active,6300
-C789,27,Light Active,5700
-D012,31,Heavy Work,7100
-A123,47,Sedentary,5300
-B456,25,Active,5900
-C789,36,Light Active,5600
-D012,29,Heavy Work,7200
-A123,44,Sedentary,4900
-B456,46,Active,6300
-C789,29,Light Active,5600
-D012,35,Heavy Work,7100
-A123,42,Sedentary,5100
-B456,34,Active,6200
-C789,35,Light Active,5500
-D012,30,Heavy Work,7200
-A123,43,Sedentary,5200
-B456,34,Active,6100
-C789,35,Light Active,5500
-D012,31,Heavy Work,7100
-A123,40,Sedentary,5000
-B456,38,Active,6100
-C789,34,Light Active,5500
-D012,33,Heavy Work,7100
-A123,45,Sedentary,5300
-B456,28,Active,5900
-C789,36,Light Active,5600
-D012,39,Heavy Work,7000
-A123,46,Sedentary,5200
-B456,44,Active,6300
-C789,28,Light Active,5500
-D012,35,Heavy Work,7100
-A123,37,Sedentary,5100
-B456,45,Active,6000
-C789,39,Light Active,5500
-D012,32,Heavy Work,7000
-A123,35,Sedentary,5000
-B456,30,Active,6100
-C789,41,Light Active,5500
-D012,38,Heavy Work,7100
-A123,32,Sedentary,4900
-B456,37,Active,6200
-C789,43,Light Active,5500
-D012,34,Heavy Work,7000
-A123,40,Sedentary,5100
-B456,34,Active,6100
-C789,35,Light Active,5500
-D012,31,Heavy Work,7100
-A123,39,Sedentary,5000
-B456,42,Active,6300
-C789,33,Light Active,5500
-D012,36,Heavy Work,7100
-A123,47,Sedentary,5200
-B456,28,Active,5900
-C789,36,Light Active,5600
-D012,30,Heavy Work,7200
-A123,46,Sedentary,5300
-B456,44,Active,6300
-C789,28,Light Active,5500
-D012,35,Heavy Work,7100
-A123,37,Sedentary,5100
-B456,45,Active,6000
-C789,39,Light Active,5500
-D012,32,Heavy Work,7000
+S00.01XA,35,Sedentary,5000
+S00.01XD,45,Active,6000
+S41.1,28,Light Active,5500
+S41.0,32,Heavy Work,7000
+S00.01XA,41,Sedentary,4800
+S00.01XD,37,Active,6100
+S41.1,50,Light Active,5300
+S41.0,29,Heavy Work,7200
+S00.01XA,48,Sedentary,5200
+S00.01XD,25,Active,5900
+S41.1,30,Light Active,5600
+S41.0,42,Heavy Work,6900
+S00.01XA,38,Sedentary,5100
+S00.01XD,31,Active,6200
+S41.1,47,Light Active,5400
+S41.0,26,Heavy Work,7100
+S00.01XA,44,Sedentary,4900
+S00.01XD,36,Active,6300
+S41.1,33,Light Active,5800
+S41.0,27,Heavy Work,7300
+S00.01XA,43,Sedentary,5200
+S00.01XD,34,Active,6100
+S41.1,35,Light Active,5500
+S41.0,30,Heavy Work,7200
+S00.01XA,50,Sedentary,4800
+S00.01XD,45,Active,6000
+S41.1,28,Light Active,5500
+S41.0,32,Heavy Work,7000
+S00.01XA,38,Sedentary,5100
+S00.01XD,41,Active,6300
+S41.1,27,Light Active,5700
+S41.0,31,Heavy Work,7100
+S00.01XA,47,Sedentary,5300
+S00.01XD,25,Active,5900
+S41.1,36,Light Active,5600
+S41.0,29,Heavy Work,7200
+S00.01XA,44,Sedentary,4900
+S00.01XD,46,Active,6300
+S41.1,29,Light Active,5600
+S41.0,35,Heavy Work,7100
+S00.01XA,42,Sedentary,5100
+S00.01XD,34,Active,6200
+S41.1,35,Light Active,5500
+S41.0,30,Heavy Work,7200
+S00.01XA,43,Sedentary,5200
+S00.01XD,34,Active,6100
+S41.1,35,Light Active,5500
+S41.0,31,Heavy Work,7100
+S00.01XA,40,Sedentary,5000
+S00.01XD,38,Active,6100
+S41.1,34,Light Active,5500
+S41.0,33,Heavy Work,7100
+S00.01XA,45,Sedentary,5300
+S00.01XD,28,Active,5900
+S41.1,36,Light Active,5600
+S41.0,39,Heavy Work,7000
+S00.01XA,46,Sedentary,5200
+S00.01XD,44,Active,6300
+S41.1,28,Light Active,5500
+S41.0,35,Heavy Work,7100
+S00.01XA,37,Sedentary,5100
+S00.01XD,45,Active,6000
+S41.1,39,Light Active,5500
+S41.0,32,Heavy Work,7000
+S00.01XA,35,Sedentary,5000
+S00.01XD,30,Active,6100
+S41.1,41,Light Active,5500
+S41.0,38,Heavy Work,7100
+S00.01XA,32,Sedentary,4900
+S00.01XD,37,Active,6200
+S41.1,43,Light Active,5500
+S41.0,34,Heavy Work,7000
+S00.01XA,40,Sedentary,5100
+S00.01XD,34,Active,6100
+S41.1,35,Light Active,5500
+S41.0,31,Heavy Work,7100
+S00.01XA,39,Sedentary,5000
+S00.01XD,42,Active,6300
+S41.1,33,Light Active,5500
+S41.0,36,Heavy Work,7100
+S00.01XA,47,Sedentary,5200
+S00.01XD,28,Active,5900
+S41.1,36,Light Active,5600
+S41.0,30,Heavy Work,7200
+S00.01XA,46,Sedentary,5300
+S00.01XD,44,Active,6300
+S41.1,28,Light Active,5500
+S41.0,35,Heavy Work,7100
+S00.01XA,37,Sedentary,5100
+S00.01XD,45,Active,6000
+S41.1,39,Light Active,5500
+S41.0,32,Heavy Work,7000
