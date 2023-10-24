@@ -20,8 +20,8 @@ class Classifier:
         model.train_and_save()
 
     def load_and_test(self, req):
-       
-        model = pickle.load(open("model.pkl", "rb"))
+     
+        model = pickle.load(open("./models/model.pkl", "rb"))
         
         new_claim = pd.DataFrame({
             'Age': [40],

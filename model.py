@@ -35,4 +35,4 @@ class Model:
         # Initialize and train the linear regression model
         model = LinearRegression()
         model.fit(X_train, y_train)
-        pickle.dump(model, open("model.pkl", "wb"))
+        pickle.dump(model, open("./models/model.pkl", "wb"))
