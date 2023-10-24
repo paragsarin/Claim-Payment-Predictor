@@ -11,16 +11,16 @@ import pickle
 
 class Classifier:
     def __init__(self):
-        print("aa")
+       
         pass
 
     def train(self):
-        print("hello")
+   
         model = Model()
         model.train_and_save()
 
     def load_and_test(self, req):
-        print("bb")
+       
         model = pickle.load(open("model.pkl", "rb"))
         
         new_claim = pd.DataFrame({
@@ -35,8 +35,6 @@ class Classifier:
             'Type_of_Work_Sedentary':[0]
         
         })
-        print("cc")
-
         print(req)
 
 
